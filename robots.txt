@@ -1,0 +1,8 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://gjxjgfhdjbfk.github.io/gjxjgfhdjbfk_github_io_zp532_11.txt
+Sitemap: https://gjxjgfhdjbfk.github.io/gjxjgfhdjbfk_github_io_zp532_16.txt
+Sitemap: https://gjxjgfhdjbfk.github.io/gjxjgfhdjbfk_github_io_zp532_20.txt
+Sitemap: https://gjxjgfhdjbfk.github.io/gjxjgfhdjbfk_github_io_zp532_25.txt
+Sitemap: https://gjxjgfhdjbfk.github.io/gjxjgfhdjbfk_github_io_zp532_6.txt
